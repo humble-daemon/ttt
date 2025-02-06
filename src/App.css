@@ -1,0 +1,14 @@
+.board {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.square {
+  height: 50px;
+  width: 50px;
+  border: solid 1px black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: sans-serif;
+}
